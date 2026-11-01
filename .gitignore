@@ -1,0 +1,21 @@
+# Backend Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.env
+backend/data/
+backend/models_saved/
+
+# Frontend Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
